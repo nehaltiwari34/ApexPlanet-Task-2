@@ -1,4 +1,5 @@
-# A modern collection of interactive web components demonstrating essential frontend development techniques. This project features a responsive contact form with client-side validation, a flexible layout system using CSS Flexbox and Grid, and a dynamic todo application with persistent local storage.
+A modern collection of interactive web components demonstrating essential frontend development techniques. This project features a responsive contact form with client-side validation, a flexible layout system using CSS Flexbox and Grid, and a dynamic todo application with persistent local storage.
+
 
  Key Features
 
